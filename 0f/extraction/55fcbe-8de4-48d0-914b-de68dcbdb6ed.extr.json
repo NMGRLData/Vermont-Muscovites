@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "1.75",
+    "cleanup_duration": 45.0,
+    "commit": "ba8b0004b1842c2c987b8db7fc9e0dfcf24611f9",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 12.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "221-hole",
+    "load_name": "D0108",
+    "measured_response": "+0zETgAAAADAs+A9AAD6RGAeB0AAAPpEYIeDQAAA+kTsucNAAAD6RLrbAUEAAPpEwuchQQAA+kRkCkJBAAD6RHInYkEAAPpESR6BQQAA+kR4KpFBAAD6RJUooUEAAPpE1kCxQQAA+kQqP8FBAAD6RAdN0UEAAPpER0vhQQAA+kTuTPFBAAD6REOsAEIAAPpETqsIQgAA+kR4qhBCAAD6RBe1GEIAAPpEJLUgQgAA+kRPuyhCAAD6RIW/MEIAAPpEkL84QgAA+kQSyUBCAAD6REPOSEIAAPpEGdRQQgAA+kQg01hCAAD6RK/XYEIAAPpE",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 57,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 20.0,
+    "ramp_rate": 0.0,
+    "requested_output": "+0zETgAAAADAs+A9DM72QWAeB0AAAAAAYIeDQAAAAADsucNAAAAAALrbAUEAAAAAwuchQQAAAABkCkJBAAAAAHInYkExL45BSR6BQZ5gmkF4KpFBPCumQZUooUHHn7FB1kCxQbXLvEEqP8FBFbrHQQdN0UEzdNJBR0vhQQAC3UHuTPFBZmrnQUOsAEJ/s/FBTqsIQgzO9kF4qhBCDM72QRe1GEIMzvZBJLUgQgzO9kFPuyhCDM72QYW/MEIMzvZBkL84QgzO9kESyUBCDM72QUPOSEIMzvZBGdRQQgzO9kEg01hCDM72Qa/XYEIMzvZB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "221-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0108/69986-41-001.avi"
+    ],
+    "weight": 0
+}
